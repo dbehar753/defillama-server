@@ -3389,7 +3389,7 @@ const data6: Protocol[] = [
     id: "7869",
     name: "Challenge4Trading Perp",
     address: null,
-    symbol: "C4T",
+    symbol: "-",
     url: "https://www.challenge4trading.com",
     description:
       "Challenge4Trading Perp (C4T) is a perpetuals trading protocol on Arbitrum.",
